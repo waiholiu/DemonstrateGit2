@@ -1,3 +1,3 @@
 # DemonstrateGit2
 
-My conflicting change 2
+Change feature.a
