@@ -1,3 +1,5 @@
 # DemonstrateGit2
 
-Conflicting change 1
+Change 2.main
+
+
