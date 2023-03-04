@@ -1,3 +1,3 @@
 # DemonstrateGit2
 
-- My branch change
+Conflicting change 1
